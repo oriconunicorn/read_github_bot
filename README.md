@@ -1,6 +1,4 @@
-- **README:**
-    
-    This app is an LLM-powered code chatbot built with 4 experts:
+This app is an LLM-powered code chatbot built with 4 experts:
     
     - **Programmer**: a neat and creative programmer with innovative ideas.
     - **Questioner**: skilled at asking specific questions that help other experts explain their ideas.
