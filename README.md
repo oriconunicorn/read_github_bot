@@ -20,7 +20,7 @@ Fill in your [OpenAI API key](https://platform.openai.com/account/api-keys) in a
 export OPENAI_API_KEY='sk-...'
 ```
 
-## Usage
+## Usage for code assistant
 
 ```
 $ streamlit run app.py
@@ -28,9 +28,24 @@ $ streamlit run app.py
 
 Please choose an expert on the sidebar. For instance, you choose the Programmer, then the CodeGPT will reply you as the expert Programmer.
 
-**Output:**
+## Output
 
 
 https://github.com/oriconunicorn/read_github_bot/assets/89826444/5cef406d-1341-4466-8d62-44128575ff2e
+
+
+## Usage for Github code chatbot
+
+```
+$ streamlit run chatbot.py
+```
+Fill in your [OpenAI API key](https://platform.openai.com/account/api-keys) in streamlit web page.
+
+## Output
+
+
+https://github.com/oriconunicorn/read_github_bot/assets/89826444/b3a94308-d3d2-4d24-ba99-5f207cd6651e
+
+
 
 
