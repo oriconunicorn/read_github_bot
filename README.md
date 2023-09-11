@@ -29,5 +29,8 @@ $ streamlit run app.py
 Please choose an expert on the sidebar. For instance, you choose the Programmer, then the CodeGPT will reply you as the expert Programmer.
 
 **Output:**
-![Screen Shot 2023-07-17 at 10.57.44 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/74b3cca4-155d-4b8b-8a61-29c46c0596d3/Screen_Shot_2023-07-17_at_10.57.44_PM.png)
-![IMG_5151.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6afcd731-2238-412b-a688-c2fba741ed92/IMG_5151.jpg)
+
+
+https://github.com/oriconunicorn/read_github_bot/assets/89826444/5cef406d-1341-4466-8d62-44128575ff2e
+
+
